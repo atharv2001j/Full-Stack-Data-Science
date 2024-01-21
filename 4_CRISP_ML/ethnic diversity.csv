@@ -1,0 +1,311 @@
+Employee_Name,EmpID,Position,State,Zip,Sex,MaritalDesc,CitizenDesc,EmploymentStatus,Department,Salaries,age,Race
+"Brown, Mia",1103024456,Accountant I,MA,1450,F,Married,US Citizen,Active,Admin Offices,674.28,28,Black or African American
+"LaRotonda, William  ",1106026572,Accountant I,MA,1460,M ,Divorced,US Citizen,Active,Admin Offices,674.28,50,Black or African American
+"Steans, Tyrone  ",1302053333,Accountant I,MA,2703,M ,Single,US Citizen,Active,Admin Offices,674.28,43,White
+"Howard, Estelle",1211050782,Administrative Assistant,MA,2170,F,Married,US Citizen,Terminated for Cause,Admin Offices,47822,44,White
+"Singh, Nan ",1307059817,Administrative Assistant,MA,2330,F,Single,US Citizen,Active,Admin Offices,61089.35,33,White
+"Smith, Leigh Ann",711007713,Administrative Assistant,MA,1844,F,Married,US Citizen,Voluntarily Terminated,Admin Offices,32406.02,40,Asian
+"Bunbury, Jessica",1504073368,Area Sales Manager,VA,21851,F,Married,Eligible NonCitizen,Voluntarily Terminated,Sales,62051.64,26,Black or African American
+"Carter, Michelle ",1403065721,Area Sales Manager,VT,5664,F,Single,US Citizen,Active,Sales,55912.5,25,White
+"Dietrich, Jenna  ",1408069481,Area Sales Manager,WA,98052,F,Single,US Citizen,Active,Sales,15684.19,35,White
+"Digitale, Alfred",1306059197,Area Sales Manager,NH,3062,M ,Married,US Citizen,Active,Sales,33773.7,45,American Indian or Alaska Native
+"Friedman, Gerry",1204032843,Area Sales Manager,NY,10171,M ,Single,US Citizen,Active,Sales,58804,31,Two or more races
+"Gill, Whitney  ",1302053046,Area Sales Manager,OH,43050,F,Widowed,US Citizen,Terminated for Cause,Sales,28827.21,43,Black or African American
+"Gonzales, Ricardo",1411071481,Area Sales Manager,ID,83706,M ,Married,US Citizen,Active,Sales,12907.33,28,White
+"Guilianno, Mike",1001167253,Area Sales Manager,TN,37129,M ,Single,US Citizen,Voluntarily Terminated,Sales,31404.1,48,Two or more races
+"Leruth, Giovanni",1412071660,Area Sales Manager,UT,84111,M ,Separated,US Citizen,Active,Sales,43796,52,Black or African American
+"Mullaney, Howard",1306057978,Area Sales Manager,AL,36006,M ,Single,US Citizen,Active,Sales,13645.8,50,Two or more races
+"Ozark, Travis",812011761,Area Sales Manager,NC,27229,M ,Single,US Citizen,Active,Sales,61795,34,White
+"Strong, Caitrin",1411071295,Area Sales Manager,MT,59102,F,Married,US Citizen,Active,Sales,52748.2,24,Black or African American
+"Valentin,Jackie",1312063714,Area Sales Manager,AZ,85006,F,Married,US Citizen,Active,Sales,29479,54,Two or more races
+"Villanueva, Noah",1111030503,Area Sales Manager,ME,4063,M ,Single,US Citizen,Active,Sales,25521.82,25,Asian
+"Buck, Edward",1504073313,Area Sales Manager,MA,2330,M ,Married,US Citizen,Active,Sales,35971.73,25,White
+"Costa, Latia",1409070567,Area Sales Manager,CA,90007,F,Single,US Citizen,Active,Sales,49808,50,White
+"Fraval, Maruk ",1411071302,Area Sales Manager,CT,6050,M ,Single,US Citizen,Active,Sales,55990.4,34,Black or African American
+"Givens, Myriam",1203032099,Area Sales Manager,IN,46204,F,Single,US Citizen,Active,Sales,96708.02,37,White
+Jeremy Prater,1001084890,Area Sales Manager,NV,89139,M ,Married,US Citizen,Active,Sales,37221.67,31,White
+"Khemmich, Bartholemew",1104025008,Area Sales Manager,CO,80820,M ,Single,US Citizen,Active,Sales,23776.82,53,White
+"Martins, Joseph",1209048771,Area Sales Manager,TX,78207,M ,Single,Eligible NonCitizen,Active,Sales,30817,45,Black or African American
+"McKinzie, Jac",1209049326,Area Sales Manager,TX,78789,M ,Married,US Citizen,Future Start,Sales,77246.36,30,Two or more races
+"Nguyen, Dheepa",1111030684,Area Sales Manager,GA,30428,F,Single,US Citizen,Active,Sales,30137.04,33,Two or more races
+"Onque, Jasmine",1501072180,Area Sales Manager,FL,33174,F,Single,US Citizen,Active,Sales,53196.72,38,White
+"Potts, Xana",1102024106,Area Sales Manager,KY,40220,F,Married,US Citizen,Active,Sales,28919,54,Black or African American
+"Riordan, Michael",1502072711,Area Sales Manager,ND,58782,M ,Separated,US Citizen,Active,Sales,60434.67,48,White
+"Terry, Sharlene ",1401064637,Area Sales Manager,OR,97756,F,Single,US Citizen,Active,Sales,36485.25,49,Black or African American
+"Rachael, Maggie",1009919940,BI Developer,MA,2110,F,Married,US Citizen,Active,IT/IS,48086.32,47,Black or African American
+"Smith, Jason",1009919980,BI Developer,MA,2045,M ,Single,US Citizen,Active,IT/IS,33231.01,44,White
+"Westinghouse, Matthew",1009919990,BI Developer,MA,2134,M ,Married,US Citizen,Active,IT/IS,27832.19,26,White
+"Hubert, Robert",1009920000,BI Developer,MA,2134,M ,Married,US Citizen,Active,IT/IS,31032,50,Black or African American
+"Champaigne, Brian",1009919920,BI Director,MA,2045,M ,Married,US Citizen,Active,IT/IS,4160,23,White
+"Zamora, Jennifer",1112030816,CIO,MA,2067,F,Single,US Citizen,Active,IT/IS,26418.01,46,White
+"Roper, Katie",1009919950,Data Architect,MA,2056,F,Single,US Citizen,Active,IT/IS,90016.01,29,Black or African American
+"Becker, Renee",1102024056,Database Administrator,MA,2026,F,Single,US Citizen,Terminated for Cause,IT/IS,33102.77,24,White
+"Goble, Taisha",905013738,Database Administrator,MA,2127,F,Single,US Citizen,Terminated for Cause,IT/IS,33464.25,46,White
+"Hernandez, Daniff",1410071156,Database Administrator,MA,1960,M ,Married,US Citizen,Terminated for Cause,IT/IS,15537.79,50,Black or African American
+"Horton, Jayne",1105025718,Database Administrator,MA,2493,F,Single,US Citizen,Active,IT/IS,29188.15,27,White
+"Johnson, Noelle ",1003018246,Database Administrator,MA,2301,F,Married,US Citizen,Leave of Absence,IT/IS,57777.02,29,Asian
+"Murray, Thomas",1406068403,Data Analyst,TX,78230,M ,Divorced,US Citizen,Active,IT/IS,48017.21,26,Black or African American
+"Pearson, Randall",1102023965,Data Analyst,MA,2747,M ,Married,US Citizen,Voluntarily Terminated,IT/IS,40083.52,27,White
+"Petrowsky, Thelma",1108027853,Data Analyst,MA,1886,F,Married,US Citizen,Active,IT/IS,58672,46,Asian
+"Roby, Lori ",1407068885,Data Analyst,MA,1886,F,Married,US Citizen,Active,IT/IS,22721,23,White
+"Rogers, Ivan",1203032255,Data Analyst,MA,1810,M ,Married,US Citizen,Active,IT/IS,19161.7,23,White
+"Salter, Jason",1111030148,Data Analyst ,MA,2452,M ,Divorced,US Citizen,Voluntarily Terminated,IT/IS,42304.75,37,Black or African American
+"Simard, Kramer",808010278,Data Analyst,MA,2110,M ,Married,US Citizen,Active,IT/IS,418.18,42,White
+"Zhou, Julia",1110029732,Data Analyst,MA,2148,F,Single,US Citizen,Active,IT/IS,75337.01,41,White
+"Bramante, Elisa",1006020066,Director of Operations,MA,2030,F,Single,US Citizen,Active,Production       ,21422.76,51,Black or African American
+"Houlihan, Debra",1009021646,Director of Sales,RI,2908,F,Married,US Citizen,Active,Sales,27595.7,32,White
+"Foss, Jason",1192991000,IT Director,MA,1460,M ,Single,US Citizen,Active,IT/IS,36741,50,Black or African American
+"Roup,Simon",1106026933,IT Manager - DB,MA,2481,M ,Single,US Citizen,Active,IT/IS,44772.47,40,White
+"Ruiz, Ricardo",1001175250,IT Manager - DB,MA,1915,M ,Divorced,US Citizen,Voluntarily Terminated,IT/IS,54810.01,50,Two or more races
+"Monroe, Peter",1011022863,IT Manager - Infra,MA,2134,M ,Married,Eligible NonCitizen,Active,IT/IS,8997.89,25,Hispanic
+"Dougall, Eric",1101023754,IT Manager - Support,MA,1886,M ,Single,US Citizen,Active,IT/IS,2143.58,33,White
+"Clayton, Rick",1301052902,IT Support,MA,2170,M ,Single,US Citizen,Active,IT/IS,37154.15,37,White
+"Galia, Lisa",1501072093,IT Support,CT,6040,F,Single,US Citizen,Active,IT/IS,32814.02,53,White
+"Lindsay, Leonara ",602000312,IT Support,CT,6070,F,Single,US Citizen,Active,IT/IS,30530.44,49,Two or more races
+"Soto, Julia ",1203032263,IT Support,MA,2360,F,Married,US Citizen,Active,IT/IS,96573.02,52,Black or African American
+"Bacong, Alejandro ",1212052023,IT Support,MA,1886,M ,Divorced,US Citizen,Active,IT/IS,39232,33,White
+"Cisco, Anthony",1102024173,IT Support,MA,2135,M ,Married,US Citizen,Active,IT/IS,52221.5,39,White
+"Dolan, Linda",1101023540,IT Support,MA,2119,F,Married,US Citizen,Active,IT/IS,61834,39,White
+"Gonzalez, Maria",1988299991,IT Support,MA,2472,F,Separated,US Citizen,Active,IT/IS,42389.4,28,White
+"Merlos, Carlos",1012023013,Network Engineer,MA,2138,M ,Single,US Citizen,Active,IT/IS,57636.01,54,White
+"Morway, Tanya",1001956578,Network Engineer,MA,2048,F,Married,US Citizen,Active,IT/IS,32278.4,27,White
+"Shepard, Anita ",906014183,Network Engineer,MA,1773,F,Married,US Citizen,Active,IT/IS,27588.4,30,White
+"Tredinnick, Neville ",1104025466,Network Engineer,MA,1420,M ,Married,US Citizen,Voluntarily Terminated,IT/IS,24158.93,24,White
+"Turpin, Jumil",1411071506,Network Engineer,MA,2343,M ,Married,Eligible NonCitizen,Active,IT/IS,37828.01,38,White
+"King, Janet",1001495124,President & CEO,MA,1902,F,Married,US Citizen,Active,Executive Office,52633.5,42,White
+"Albert, Michael  ",1501072311,Production Manager,MA,2169,M ,Divorced,US Citizen,Active,Production       ,96299.04,46,White
+"Bozzi, Charles",1303054580,Production Manager,MA,1901,M ,Single,US Citizen,Voluntarily Terminated,Production       ,43967.48,34,Asian
+"Butler, Webster  L",1110029990,Production Manager,MA,2169,M ,Single,US Citizen,Active,Production       ,22032,28,White
+"Dunn, Amy  ",1409070147,Production Manager,MA,1731,F,Single,US Citizen,Active,Production       ,86859.01,23,White
+"Gray, Elijiah  ",1307060077,Production Manager,MA,1752,M ,Divorced,US Citizen,Active,Production       ,81105.04,53,White
+"Hogland, Jonathan ",1001944783,Production Manager,MA,1890,M ,Married,US Citizen,Terminated for Cause,Production       ,51977.02,26,White
+"Immediato, Walter",1403065874,Production Manager,MA,2128,M ,Married,US Citizen,Voluntarily Terminated,Production       ,30490,39,Asian
+"Liebig, Ketsia",1103024679,Production Manager,MA,2110,F,Married,US Citizen,Active,Production       ,28520,35,White
+"Miller, Brannon",1107027351,Production Manager,MA,2045,M ,Single,US Citizen,Active,Production       ,45592.56,40,Hispanic
+"Peterson, Ebonee  ",1402065355,Production Manager,MA,2030,F,Married,US Citizen,Voluntarily Terminated,Production       ,37487.05,27,White
+"Spirea, Kelley",1102024149,Production Manager,MA,2451,F,Married,US Citizen,Active,Production       ,75525,52,White
+"Stanley, David ",1000974650,Production Manager,MA,1803,M ,Divorced,US Citizen,Active,Production       ,33889,46,White
+"Sullivan, Kissy ",1405067298,Production Manager,MA,1776,F,Married,US Citizen,Active,Production       ,25515,46,Black or African American
+"Wallace, Courtney  E",1410071026,Production Manager,MA,2478,F,Married,US Citizen,Voluntarily Terminated,Production       ,35867.79,49,Black or African American
+"Anderson, Linda  ",1304055947,Production Technician I,MA,1844,F,Single,US Citizen,Active,Production       ,49500,25,White
+"Bernstein, Sean",1109029366,Production Technician I,MA,2072,M ,Single,US Citizen,Active,Production       ,61283.01,33,White
+"Chivukula, Enola",1101023394,Production Technician I,MA,1775,F,Single,US Citizen,Voluntarily Terminated,Production       ,63072.81,35,White
+"Desimone, Carl ",1501072124,Production Technician I,MA,2061,M ,Married,US Citizen,Active,Production       ,15736.71,26,White
+"Fernandes, Nilson  ",1302053339,Production Technician I,MA,2132,M ,Married,US Citizen,Active,Production       ,61771.63,48,White
+"Girifalco, Evelyn",1204032927,Production Technician I,MA,2451,F,Single,US Citizen,Active,Production       ,21587.54,49,Two or more races
+"Harrison, Kara",1404066622,Production Technician I,MA,1886,F,Married,US Citizen,Active,Production       ,19415.05,36,White
+"Kirill, Alexandra  ",903013071,Production Technician I,MA,2127,F,Married,US Citizen,Voluntarily Terminated,Production       ,37619,44,White
+"MacLennan, Samuel",1201031032,Production Technician I,MA,1938,M ,Widowed,US Citizen,Voluntarily Terminated,Production       ,5033.44,33,White
+"Ndzi, Horia",1204033044,Production Technician I,MA,2421,M ,Married,US Citizen,Voluntarily Terminated,Production       ,65375.51,54,White
+"Perry, Shakira",1109029186,Production Technician I,MA,2176,F,Single,US Citizen,Voluntarily Terminated,Production       ,75,49,White
+"Robinson, Alain  ",1206038000,Production Technician I,MA,1420,M ,Married,US Citizen,Voluntarily Terminated,Production       ,37915,32,Black or African American
+"Shields, Seffi",1205033102,Production Technician I,MA,2149,F,Married,US Citizen,Active,Production       ,703.52,41,White
+"Theamstern, Sophia",1404066739,Production Technician I,MA,2066,F,Single,US Citizen,Voluntarily Terminated,Production       ,64964.4,40,White
+"Wilber, Barry",1101023839,Production Technician I,MA,2324,M ,Married,Eligible NonCitizen,Voluntarily Terminated,Production       ,2977.5,28,White
+"Bachiochi, Linda",1212051409,Production Technician I,MA,1902,F,Single,US Citizen,Leave of Absence,Production       ,39506.05,49,Two or more races
+"Billis, Helen",1308060366,Production Technician I,MA,2031,F,Married,US Citizen,Active,Production       ,51837,51,White
+"Clukey, Elijian",1407069280,Production Technician I,MA,2134,M ,Married,US Citizen,Future Start,Production       ,22971.71,37,White
+"DiNocco, Lily ",1209048696,Production Technician I,MA,2351,F,Married,US Citizen,Active,Production       ,42743,43,Black or African American
+"Fidelia,  Libby",1006020020,Production Technician I,MA,2155,F,Married,US Citizen,Active,Production       ,43435.64,52,White
+"Gonzalez, Cayo",1411071212,Production Technician I,MA,2108,M ,Divorced,US Citizen,Active,Production       ,7673.5,32,American Indian or Alaska Native
+"Ivey, Rose ",1408069882,Production Technician I,MA,1775,F,Single,US Citizen,Active,Production       ,24752.32,27,White
+"Kretschmer, John",1311062610,Production Technician I,MA,1801,M ,Married,US Citizen,Active,Production       ,36028.03,48,Asian
+"Mangal, Debbie",1308060754,Production Technician I,MA,2451,F,Married,US Citizen,Active,Production       ,43913.01,51,White
+"Ngodup, Shari ",1403066020,Production Technician I,MA,1810,F,Separated,US Citizen,Active,Production       ,66142.11,27,Asian
+"Pham, Hong",1305057440,Production Technician I,MA,2451,M ,Married,US Citizen,Voluntarily Terminated,Production       ,53314.8,32,White
+"Robinson, Elias",1011022887,Production Technician I,MA,1730,M ,Widowed,US Citizen,Active,Production       ,85595.02,50,White
+"Sparks, Taylor  ",1410071137,Production Technician I,MA,2093,F,Married,US Citizen,Active,Production       ,25866.88,27,White
+"Tippett, Jeanette",1409070255,Production Technician I,MA,2093,F,Divorced,US Citizen,Active,Production       ,22770.02,25,Black or African American
+"Ybarra, Catherine ",1001268402,Production Technician I,MA,2458,F,Single,US Citizen,Voluntarily Terminated,Production       ,68557.05,45,Asian
+"Baczenski, Rachael  ",1307060083,Production Technician I,MA,1902,F,Married,US Citizen,Voluntarily Terminated,Production       ,49397.25,28,Hispanic
+"Brill, Donna",1406068293,Production Technician I,MA,1701,F,Married,US Citizen,Voluntarily Terminated,Production       ,1863.9,26,White
+"Cockel, James",1599991009,Production Technician I,MA,2452,M ,Single,US Citizen,Active,Production       ,30740,40,White
+"Dobrin, Denisa  S",1202031618,Production Technician I,MA,2125,F,Single,US Citizen,Active,Production       ,52011.5,50,White
+"Garcia, Raul",1309061015,Production Technician I,MA,1905,M ,Single,US Citizen,Active,Production       ,90428.03,31,White
+"Gordon, David",1106026579,Production Technician I,MA,2169,M ,Married,US Citizen,Active,Production       ,33179.5,39,White
+"Jackson, Maryellen",1201031438,Production Technician I,MA,2081,F,Single,US Citizen,Active,Production       ,2744.66,51,White
+"Langton, Enrico",1304055987,Production Technician I,MA,2048,M ,Married,US Citizen,Active,Production       ,26673.11,35,White
+"Maurice, Shana",1401064327,Production Technician I,MA,2330,F,Married,US Citizen,Active,Production       ,32609.42,49,White
+"Nguyen, Lei-Ming",1203032357,Production Technician I,MA,2132,F,Single,US Citizen,Active,Production       ,47548.04,37,White
+"Pitt, Brad ",1001735072,Production Technician I,MA,2451,M ,Single,US Citizen,Active,Production       ,1244.59,52,Black or African American
+"Rose, Ashley  ",710007555,Production Technician I,MA,1886,F,Separated,US Citizen,Active,Production       ,45727,42,White
+"Squatrito, Kristen",1405067138,Production Technician I,MA,2359,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,33188.21,39,White
+"Trang, Mei",1012023152,Production Technician I,MA,2021,F,Single,US Citizen,Active,Production       ,36442.05,35,White
+"Zima, Colleen",1211051232,Production Technician I,MA,1730,F,Widowed,US Citizen,Active,Production       ,30129.01,54,Asian
+"Alagbe,Trina",1011022883,Production Technician I,MA,1886,F,Married,US Citizen,Active,Production       ,62216.97,38,White
+"Beatrice, Courtney ",1403066194,Production Technician I,MA,1915,F,Single,Eligible NonCitizen,Active,Production       ,53654.41,44,White
+"Chan, Lin",1305057282,Production Technician I,MA,2170,F,Single,US Citizen,Active,Production       ,55041.02,26,White
+"Darson, Jene'ya ",1001109612,Production Technician I,MA,2110,F,Married,US Citizen,Active,Production       ,45769.91,27,White
+"Evensen, April",1107027392,Production Technician I,MA,2458,F,Single,US Citizen,Terminated for Cause,Production       ,11167.36,27,White
+"Gerke, Melisa",1308060622,Production Technician I,MA,2330,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,60695.5,31,White
+"Harrell, Ludwick",1406068241,Production Technician I,MA,1776,M ,Married,US Citizen,Active,Production       ,48502,39,Asian
+"Jung, Judy  ",1107027450,Production Technician I,MA,2446,F,Married,US Citizen,Voluntarily Terminated,Production       ,26344.6,35,White
+"Lydon, Allison",1101023353,Production Technician I,MA,2122,F,Married,US Citizen,Leave of Absence,Production       ,43483,24,Black or African American
+"Motlagh,  Dawn",1102024121,Production Technician I,MA,2453,F,Divorced,US Citizen,Active,Production       ,20782.01,35,White
+"Panjwani, Nina",1109029531,Production Technician I,MA,2351,F,Married,US Citizen,Voluntarily Terminated,Production       ,25919.2,44,White
+"Rhoads, Thomas",1211050793,Production Technician I,MA,2176,M ,Divorced,US Citizen,Voluntarily Terminated,Production       ,34940.27,43,White
+"Sander, Kamrin",1302053362,Production Technician I,MA,2154,F,Married,US Citizen,Active,Production       ,42282,49,Black or African American
+"Sutwell, Barbara",1407069061,Production Technician I,MA,2718,F,Single,Eligible NonCitizen,Active,Production       ,22626.11,45,Asian
+"Wallace, Theresa",1101023619,Production Technician I,MA,1887,F,Single,US Citizen,Voluntarily Terminated,Production       ,85549.6,41,White
+"Barone, Francesco  A",1101023679,Production Technician I,MA,1810,M ,Single,US Citizen,Active,Production       ,12853.52,25,Two or more races
+"Carey, Michael  ",1311063114,Production Technician I,MA,1701,M ,Single,US Citizen,Active,Production       ,60403.96,32,Black or African American
+"Cornett, Lisa ",1403066069,Production Technician I,MA,2189,F,Married,US Citizen,Active,Production       ,33801,24,White
+"Engdahl, Jean",1007020403,Production Technician I,MA,2026,M ,Single,US Citizen,Active,Production       ,49808.01,54,White
+"England, Rex",1101023612,Production Technician I,MA,2045,M ,Married,US Citizen,Active,Production       ,31328.06,35,White
+"Gaul, Barbara",1105026041,Production Technician I,MA,2121,F,Single,US Citizen,Active,Production       ,29760.2,41,Black or African American
+"Gross, Paula",1103024859,Production Technician I,MA,2176,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,3326.85,48,White
+"Jhaveri, Sneha  ",1412071713,Production Technician I,MA,2109,F,Separated,US Citizen,Active,Production       ,24860.02,39,White
+"LeBel, Jonathan  R",1107027575,Production Technician I,MA,2050,M ,Single,US Citizen,Terminated for Cause,Production       ,5620.69,43,White
+"Meads, Elizabeth",1409070245,Production Technician I,MA,1760,F,Single,US Citizen,Voluntarily Terminated,Production       ,65024.01,36,Black or African American
+"Osturnka, Adeel",1404066949,Production Technician I,MA,2478,M ,Married,US Citizen,Active,Production       ,53947.38,53,White
+"Punjabhi, Louis  ",1401064562,Production Technician I,MA,2109,M ,Single,US Citizen,Active,Production       ,66142,34,White
+"Saar-Beckles, Melinda",1410070998,Production Technician I,MA,1801,F,Single,US Citizen,Future Start,Production       ,39997.06,43,Black or African American
+"Stoica, Rick",1106026896,Production Technician I,MA,2301,M ,Married,US Citizen,Active,Production       ,47548.01,34,Asian
+"Volk, Colleen",1011022814,Production Technician I,MA,2747,F,Married,US Citizen,Terminated for Cause,Production       ,7503.33,33,White
+"Athwal, Sam",1301052124,Production Technician I,MA,2199,M ,Widowed,US Citizen,Active,Production       ,47390.29,29,White
+"Biden, Lowan  M",1412071844,Production Technician I,MA,2027,F,Divorced,US Citizen,Active,Production       ,72346.2,26,Asian
+"Cierpiszewski, Caroline  ",1012023295,Production Technician I,MA,2044,F,Single,Non-Citizen,Active,Production       ,3014.01,41,Black or African American
+"Dickinson, Geoff ",706006285,Production Technician I,MA,2180,M ,Single,US Citizen,Active,Production       ,5325.51,23,White
+"Ferreira, Violeta",803009012,Production Technician I,MA,2176,F,Single,US Citizen,Active,Production       ,24725.02,50,White
+"Gold, Shenice  ",1408069539,Production Technician I,MA,2451,F,Single,US Citizen,Active,Production       ,34124.21,53,White
+"Heitzman, Anthony",1002017900,Production Technician I,MA,2149,M ,Single,US Citizen,Active,Production       ,21375.2,46,White
+"Knapp, Bradley  J",1304055683,Production Technician I,MA,1721,M ,Single,US Citizen,Active,Production       ,28937.6,51,Black or African American
+"Mahoney, Lauren  ",1209049259,Production Technician I,MA,2189,F,Single,US Citizen,Active,Production       ,56906,25,White
+"Newman, Richard ",1302053044,Production Technician I,MA,2136,M ,Married,US Citizen,Leave of Absence,Production       ,33485.31,35,White
+"Peterson, Kayla ",1307059944,Production Technician I,MA,1749,F,Married,US Citizen,Active,Production       ,39356.6,37,White
+"Robinson, Cherly",1403065625,Production Technician I,MA,1460,F,Married,US Citizen,Terminated for Cause,Production       ,57663,24,White
+"Smith, Sade",1501071909,Production Technician I,MA,2130,F,Single,US Citizen,Active,Production       ,42743,33,White
+"Tinto, Theresa  ",1103024504,Production Technician I,MA,1876,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,41312,26,White
+"Williams, Jacquelyn  ",1308060671,Production Technician I,MA,2109,F,Single,US Citizen,Voluntarily Terminated,Production       ,12056,41,Two or more races
+"Barbara, Thomas",1312063507,Production Technician I,MA,2062,M ,Married,US Citizen,Voluntarily Terminated,Production       ,16856.4,51,Asian
+"Bugali, Josephine ",1408069635,Production Technician I,MA,2043,F,Separated,US Citizen,Leave of Absence,Production       ,2602.61,39,Black or African American
+"Cole, Spencer",1001450968,Production Technician I,MA,1880,M ,Single,US Citizen,Terminated for Cause,Production       ,27819.13,25,Black or African American
+"Eaton, Marianne",1406067865,Production Technician I,MA,2343,F,Married,US Citizen,Voluntarily Terminated,Production       ,41305,50,White
+"Garneau, Hamish",1104025414,Production Technician I,MA,1550,M ,Single,US Citizen,Active,Production       ,11731.95,40,Asian
+"Goyal, Roxana",1312063675,Production Technician I,MA,1864,F,Married,US Citizen,Leave of Absence,Production       ,35688.01,30,Asian
+"Jacobi, Hannah  ",1503072857,Production Technician I,MA,1778,F,Divorced,US Citizen,Active,Production       ,36917,44,White
+"Leach, Dallas",1408069409,Production Technician I,MA,1810,F,Single,US Citizen,Voluntarily Terminated,Production       ,47860.41,47,Asian
+"Mckenna, Sandy",909015167,Production Technician I,MA,2184,F,Married,US Citizen,Active,Production       ,55226.8,46,Black or African American
+"O'hare, Lynn",1206044851,Production Technician I,MA,2152,F,Single,US Citizen,Terminated for Cause,Production       ,27603,48,Two or more races
+"Power, Morissa",1102024274,Production Technician I,MA,1742,F,Divorced,Eligible NonCitizen,Voluntarily Terminated,Production       ,14795.02,41,Asian
+"Purinton, Janine",1011022926,Production Technician I,MA,2474,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,2250,27,White
+"Rossetti, Bruno",1405067492,Production Technician I,MA,2155,M ,Single,US Citizen,Voluntarily Terminated,Production       ,55041,29,White
+"Stanford,Barbara  M",1111030244,Production Technician I,MA,2050,F,Divorced,US Citizen,Active,Production       ,36152.57,43,Two or more races
+"Veera, Abdellah ",1203032235,Production Technician I,MA,2171,M ,Divorced,US Citizen,Voluntarily Terminated,Production       ,10335,30,White
+"Adinolfi, Wilson  K",1409070522,Production Technician I,MA,1960,M ,Single,US Citizen,Active,Production       ,31958,50,White
+"Barton, Nader",1212051962,Production Technician I,MA,2747,M ,Divorced,US Citizen,Voluntarily Terminated,Production       ,39045,27,White
+"Chace, Beatrice ",1208048062,Production Technician I,MA,2763,F,Single,US Citizen,Active,Production       ,8676.5,39,White
+"Crimmings,   Jean",1311063172,Production Technician I,MA,1821,F,Single,US Citizen,Future Start,Production       ,36105.09,27,White
+"Estremera, Miguel",1104025243,Production Technician I,MA,2129,M ,Single,US Citizen,Terminated for Cause,Production       ,52011.5,26,White
+"Gentry, Mildred",1501072192,Production Technician I,MA,2145,F,Married,US Citizen,Active,Production       ,19847.4,44,Black or African American
+"Handschiegl, Joanne",1405067064,Production Technician I,MA,2127,F,Married,US Citizen,Active,Production       ,27588.4,41,White
+"Johnson, George",1105025721,Production Technician I,MA,2445,M ,Married,US Citizen,Voluntarily Terminated,Production       ,21110.6,53,White
+"Keatts, Kramer ",1301052462,Production Technician I,MA,1887,M ,Single,US Citizen,Active,Production       ,60951.42,54,White
+"Linares, Marilyn ",1206042315,Production Technician I,MA,1886,F,Married,US Citizen,Voluntarily Terminated,Production       ,35448.62,49,White
+"Medeiros, Jennifer",1109029256,Production Technician I,MA,2346,F,Single,US Citizen,Active,Production       ,17315.7,43,White
+"Owad, Clinton",1103024335,Production Technician I,MA,1760,M ,Single,US Citizen,Active,Production       ,50630.52,24,Black or African American
+"Rarrick, Quinn",1208048229,Production Technician I,MA,2478,M ,Divorced,US Citizen,Voluntarily Terminated,Production       ,38848,33,White
+"Sadki, Nore  ",1308060535,Production Technician I,MA,2148,M ,Single,US Citizen,Voluntarily Terminated,Production       ,47199.63,44,White
+"Sullivan, Timothy",1201031310,Production Technician I,MA,2747,M ,Married,US Citizen,Active,Production       ,18050.02,35,White
+"Von Massenbach, Anna",1106026474,Production Technician I,MA,2124,F,Single,US Citizen,Future Start,Production       ,22094.51,37,White
+"Anderson, Carol ",1001417624,Production Technician I,MA,2169,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,0,34,White
+"Becker, Scott",1110029777,Production Technician I,MA,2452,M ,Single,US Citizen,Leave of Absence,Production       ,52846.35,44,Asian
+"Chang, Donovan  E",1111030129,Production Technician I,MA,1845,M ,Single,US Citizen,Active,Production       ,39835.4,43,White
+"DeGweck,  James",1306058816,Production Technician I,MA,1810,M ,Married,US Citizen,Voluntarily Terminated,Production       ,10908.66,44,White
+"Ferguson, Susan",1502072511,Production Technician I,MA,2176,F,Married,US Citizen,Voluntarily Terminated,Production       ,20450,33,White
+"Gilles, Alex",1008020960,Production Technician I,MA,2062,M ,Married,US Citizen,Voluntarily Terminated,Production       ,827.04,29,Black or African American
+"Harrington, Christie ",1110029602,Production Technician I,MA,2324,F,Single,US Citizen,Voluntarily Terminated,Production       ,41700.01,50,White
+"Kinsella, Kathleen  ",710007401,Production Technician I,MA,2170,F,Married,US Citizen,Voluntarily Terminated,Production       ,108304,27,White
+"Lynch, Lindsay",1001138521,Production Technician I,MA,1844,F,Single,US Citizen,Voluntarily Terminated,Production       ,26994.14,39,Two or more races
+"Ndzi, Colombui",1204033041,Production Technician I,MA,2110,M ,Single,US Citizen,Voluntarily Terminated,Production       ,28919,46,Black or African American
+"Pelech, Emil",1307060058,Production Technician I,MA,2458,M ,Single,US Citizen,Voluntarily Terminated,Production       ,42620.02,42,Black or African American
+"Rivera, Haley  ",1405067642,Production Technician I,MA,2171,F,Married,US Citizen,Active,Production       ,46067.86,31,Asian
+"Sewkumar, Nori",807010161,Production Technician I,MA,2191,F,Single,US Citizen,Leave of Absence,Production       ,38976.21,36,Asian
+"Tavares, Desiree  ",1405067501,Production Technician I,MA,1801,F,Married,Non-Citizen,Voluntarily Terminated,Production       ,12923.45,48,Two or more races
+"Whittier, Scott",1307060212,Production Technician I,MA,2030,M ,Single,US Citizen,Voluntarily Terminated,Production       ,35950.04,34,White
+"Burke, Joelle",1011022820,Production Technician II,MA,2148,F,Single,US Citizen,Active,Production       ,2041.2,28,Black or African American
+"Fitzpatrick, Michael  J",1109029103,Production Technician II,MA,2143,M ,Single,US Citizen,Voluntarily Terminated,Production       ,54810.02,39,White
+"Huynh, Ming",1306058509,Production Technician II,MA,1742,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,66462.04,41,White
+"Mancuso, Karen",1304055986,Production Technician II,MA,2176,F,Married,US Citizen,Voluntarily Terminated,Production       ,21325.55,41,Two or more races
+"Pelletier, Ermine",1202031821,Production Technician II,MA,2472,F,Married,US Citizen,Voluntarily Terminated,Production       ,34169.22,48,Asian
+"Trzeciak, Cybil",1107027551,Production Technician II,MA,1778,F,Single,US Citizen,Voluntarily Terminated,Production       ,11715,38,White
+"Cloninger, Jennifer",1012023226,Production Technician II,MA,1752,F,Married,US Citizen,Voluntarily Terminated,Production       ,1733.6,34,White
+"Gonzalez, Juan",1411071324,Production Technician II,MA,2128,M ,Married,US Citizen,Voluntarily Terminated,Production       ,36052.92,34,Black or African American
+"Johnston, Yen",1306057810,Production Technician II,MA,2128,F,Single,US Citizen,Active,Production       ,28189.59,42,White
+"Miller, Ned",1205033439,Production Technician II,MA,2472,M ,Single,US Citizen,Voluntarily Terminated,Production       ,52764.44,54,White
+"Petingill, Shana  ",1103024843,Production Technician II,MA,2050,F,Married,Eligible NonCitizen,Active,Production       ,40483,28,Asian
+"Winthrop, Jordan  ",1405067188,Production Technician II,MA,2045,M ,Single,US Citizen,Voluntarily Terminated,Production       ,38956.1,53,White
+"Close, Phil",1209048697,Production Technician II,MA,2169,M ,Married,US Citizen,Voluntarily Terminated,Production       ,57555.51,45,White
+"Good, Susan",1001549006,Production Technician II,MA,1886,F,Married,US Citizen,Leave of Absence,Production       ,26970.86,48,White
+"Langford, Lindsey",1010022030,Production Technician II,MA,2090,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,10936.66,26,Asian
+"Monkfish, Erasumus",1404066711,Production Technician II,MA,1450,M ,Married,US Citizen,Active,Production       ,31173.4,28,White
+"Roberson, May",1402065340,Production Technician II,MA,1902,F,Divorced,Eligible NonCitizen,Voluntarily Terminated,Production       ,24702.3,33,White
+"Wolk, Hang  T",1205033180,Production Technician II,MA,2302,F,Single,US Citizen,Active,Production       ,48678,23,White
+"Bondwell, Betsy",1008021030,Production Technician II,MA,2210,F,Single,US Citizen,Voluntarily Terminated,Production       ,56167.08,52,White
+"Faller, Megan ",1108028428,Production Technician II,MA,1824,F,Married,US Citizen,Active,Production       ,54273,46,Black or African American
+"Hunts, Julissa",1106026433,Production Technician II,MA,2021,F,Single,US Citizen,Future Start,Production       ,34100.44,45,White
+"Lunquist, Lisa",1001504432,Production Technician II,MA,2324,F,Single,US Citizen,Active,Production       ,45792.03,37,Black or African American
+"Nowlan, Kristie",1104025435,Production Technician II,MA,1040,F,Single,US Citizen,Active,Production       ,31190,49,White
+"Smith, Joe",1001970770,Production Technician II,MA,2045,M ,Single,US Citizen,Active,Production       ,22756.4,33,White
+"Tejeda, Lenora ",1406068345,Production Technician II,MA,2129,F,Married,US Citizen,Voluntarily Terminated,Production       ,7973.63,54,White
+"Beak, Kimberly  ",1303054329,Production Technician II,MA,2145,F,Married,US Citizen,Future Start,Production       ,32624.1,47,White
+"Demita, Carla",1104025179,Production Technician II,MA,2343,F,Separated,US Citizen,Voluntarily Terminated,Production       ,38047,41,Black or African American
+"Hankard, Earnest",1307059937,Production Technician II,MA,2155,M ,Single,US Citizen,Active,Production       ,65024,40,White
+"Hendrickson, Trina",1011022932,Production Technician II,MA,2021,F,Single,US Citizen,Voluntarily Terminated,Production       ,47010.03,39,White
+"Linden, Mathew",1405067565,Production Technician II,MA,1770,M ,Married,US Citizen,Leave of Absence,Production       ,51727.02,41,White
+"Moran, Patrick",1408069503,Production Technician II,MA,2127,M ,Single,US Citizen,Leave of Absence,Production       ,4454,43,Hispanic
+"Sahoo, Adil",1106026462,Production Technician II,MA,2062,M ,Married,US Citizen,Active,Production       ,6738.18,36,White
+"Burkett, Benjamin ",1301052449,Production Technician II,MA,1890,M ,Married,US Citizen,Active,Production       ,56906.01,49,White
+"Foreman, Tanya",1012023204,Production Technician II,MA,2170,F,Married,US Citizen,Voluntarily Terminated,Production       ,50531.61,40,White
+"Jeannite, Tayana",1008020942,Production Technician II,MA,1821,F,Divorced,US Citizen,Active,Production       ,1204.13,50,American Indian or Alaska Native
+"McCarthy, Brigit",1406067957,Production Technician II,MA,2149,F,Single,US Citizen,Active,Production       ,13428.6,41,White
+"Peters, Lauren",1411071406,Production Technician II,MA,1886,F,Married,US Citizen,Voluntarily Terminated,Production       ,31121.05,37,White
+"Walker, Roger",1011022818,Production Technician II,MA,2459,M ,Single,US Citizen,Active,Production       ,10292,53,Black or African American
+"Akinkuolie, Sarah",1005019209,Production Technician II,MA,1810,F,Married,US Citizen,Voluntarily Terminated,Production       ,54514.81,37,White
+"Davis, Daniel",1201031274,Production Technician II,MA,2458,M ,Single,Eligible NonCitizen,Active,Production       ,56434.01,26,Two or more races
+"Gosciminski, Phylicia  ",1108028351,Production Technician II,MA,1824,F,Separated,US Citizen,Leave of Absence,Production       ,14497,29,American Indian or Alaska Native
+"Latif, Mohammed",1104025486,Production Technician II,MA,2126,M ,Married,US Citizen,Voluntarily Terminated,Production       ,56365.75,35,White
+"Monterro, Luisa",1001103149,Production Technician II,MA,2126,F,Single,US Citizen,Active,Production       ,50138.83,25,Black or African American
+"Robertson, Peter",1499902991,Production Technician II,MA,2138,M ,Married,US Citizen,Voluntarily Terminated,Production       ,19191.29,38,White
+"Woodson, Jason",1012023010,Production Technician II,MA,1810,M ,Single,US Citizen,Active,Production       ,62645.47,53,White
+"Blount, Dianna",1403066125,Production Technician II,MA,2171,F,Single,US Citizen,Active,Production       ,65024,31,White
+"Erilus, Angela",1105025661,Production Technician II,MA,2133,F,Separated,US Citizen,Active,Production       ,23456.67,30,White
+"Homberger, Adrienne  J",1207046956,Production Technician II,MA,2445,F,Married,Non-Citizen,Voluntarily Terminated,Production       ,32367.89,42,White
+"Lundy, Susan",1305056276,Production Technician II,MA,2122,F,Widowed,US Citizen,Voluntarily Terminated,Production       ,31289,35,White
+"Moumanil, Maliki ",1301052436,Production Technician II,MA,1460,M ,Separated,US Citizen,Active,Production       ,59495,39,Black or African American
+"Sloan, Constance",1012023103,Production Technician II,MA,1851,F,Single,US Citizen,Voluntarily Terminated,Production       ,6219.9,39,White
+"Buccheri, Joseph  ",1101023457,Production Technician II,MA,1013,M ,Single,US Citizen,Active,Production       ,48489.13,39,White
+"Fancett, Nicole",1402065085,Production Technician II,MA,2324,F,Single,US Citizen,Active,Production       ,31240,23,Black or African American
+"Hutter, Rosalie",1103024924,Production Technician II,MA,2351,F,Separated,US Citizen,Future Start,Production       ,26418,54,White
+"Manchester, Robyn",1110029623,Production Technician II,MA,2324,F,Married,US Citizen,Future Start,Production       ,9881,30,White
+"Oliver, Brooke ",1001856521,Production Technician II,MA,2492,F,Married,US Citizen,Voluntarily Terminated,Production       ,21211.09,41,Asian
+"Thibaud, Kenneth",1011022777,Production Technician II,MA,2472,M ,Widowed,US Citizen,Voluntarily Terminated,Production       ,7861.65,53,White
+"Daneault, Lynn",1402065303,Sales Manager,VT,5473,F,Single,US Citizen,Active,Sales,26031.72,28,White
+"Kampew, Donysha",1109029264,Sales Manager,PA,19444,F,Single,US Citizen,Voluntarily Terminated,Sales,36917.02,25,White
+"Smith, John",1499902910,Sales Manager,MA,1886,M ,Divorced,US Citizen,Active,Sales,39331,49,Black or African American
+"Le, Binh",1009919930,Senior BI Developer,MA,1886,F,Single,US Citizen,Active,IT/IS,61771.63,27,Asian
+"Navathe, Kurt",1009919960,Senior BI Developer,MA,2056,M ,Single,US Citizen,Active,IT/IS,86859,35,Asian
+"Wang, Charlie",1009919970,Senior BI Developer,MA,1887,M ,Single,US Citizen,Active,IT/IS,65250.4,37,Asian
+"LeBlanc, Brandon  R",1102024115,Shared Services Manager,MA,1460,M ,Married,US Citizen,Active,Admin Offices,33465.2,36,White
+"Quinn, Sean",1206043417,Shared Services Manager,MA,2045,M ,Married,Eligible NonCitizen,Voluntarily Terminated,Admin Offices,57060.75,51,Black or African American
+"Andreola, Colby",1107027358,Software Engineer,MA,2110,F,Single,US Citizen,Active,Software Engineering,70429.85,53,White
+"Carabbio, Judith",1101023577,Software Engineer,MA,2132,F,Single,US Citizen,Active,Software Engineering,65673.73,45,White
+"Del Bosque, Keyla",1203032498,Software Engineer,MA,2176,F,Single,US Citizen,Active,Software Engineering,44492.3,38,Black or African American
+"Exantus, Susan",1401064670,Software Engineer,MA,1749,F,Married,US Citizen,Terminated for Cause,Software Engineering,73450,40,Black or African American
+"Martin, Sandra",1303054625,Software Engineer,MA,2135,F,Single,US Citizen,Active,Software Engineering,31457.2,54,Asian
+"Patronick, Luke",1112030979,Software Engineer,MA,1844,M ,Single,US Citizen,Voluntarily Terminated,Software Engineering,33765,44,Asian
+"Saada, Adell",1012023185,Software Engineer,MA,2132,F,Married,US Citizen,Active,Software Engineering,27588.4,51,White
+"Szabo, Andrew",1201031324,Software Engineer,MA,2140,M ,Single,US Citizen,Active,Software Engineering,344.5,44,White
+"True, Edward",1102024057,Software Engineer,MA,2451,M ,Single,Non-Citizen,Voluntarily Terminated,Software Engineering,11829.8,33,Black or African American
+"Sweetwater, Alex",1001644719,Software Engineering Manager,MA,2184,M ,Single,US Citizen,Active,Software Engineering,40208,25,White
+"Foster-Baker, Amy",1201031308,Sr. Accountant,MA,2050,F,Married,US Citizen,Active,Admin Offices,28461.55,44,White
+"Boutwell, Bonalyn",1307060188,Sr. Accountant,MA,2468,F,Married,US Citizen,Active,Admin Offices,26237.96,32,Asian
+"Ait Sidi, Karthikeyan   ",1307060199,Sr. DBA,MA,2148,M ,Married,US Citizen,Voluntarily Terminated,IT/IS,32700.05,32,White
+"Carr, Claudia  N",1010022337,Sr. DBA,MA,1886,F,Single,US Citizen,Future Start,IT/IS,31209.9,54,Black or African American
+"Favis, Donald  ",1412071562,Enterprise Architect,CT,6033,M ,Single,US Citizen,Terminated for Cause,IT/IS,5802,52,Black or African American
+"Roehrich, Bianca",1111030266,Principal Data Architect,MA,2703,F,Single,US Citizen,Voluntarily Terminated,IT/IS,24828.7,43,White
+"Daniele, Ann  ",1411071312,Sr. Network Engineer,CT,6033,F,Married,US Citizen,Leave of Absence,IT/IS,37619.01,38,White
+"Lajiri,  Jyoti",1108028108,Sr. Network Engineer,MA,2169,M ,Married,US Citizen,Leave of Absence,IT/IS,27603,34,White
+"Semizoglou, Jeremiah  ",904013591,Sr. Network Engineer,MA,1545,M ,Married,US Citizen,Future Start,IT/IS,27587.46,24,Asian
+"South, Joe",1308060959,Sr. Network Engineer,CT,6278,M ,Single,US Citizen,Active,IT/IS,12126.53,31,White
+"Warfield, Sarah",1301052347,Sr. Network Engineer,MA,2453,F,Widowed,US Citizen,Active,IT/IS,37257,46,Asian

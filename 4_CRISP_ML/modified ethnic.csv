@@ -1,0 +1,311 @@
+Position,State,Sex,MaritalDesc,CitizenDesc,EmploymentStatus,Department,Salaries,age,Race
+Accountant I,NA,F,Married,US Citizen,Active,Admin Offices,674.28,NA,Black or African American
+Accountant I,MA,M ,Divorced,US Citizen,Active,Admin Offices,674.28,50,Black or African American
+Accountant I,MA,M ,Single,NA,Active,Admin Offices,674.28,43,White
+Administrative Assistant,MA,F,NA,US Citizen,Terminated for Cause,Admin Offices,47822,44,NA
+NA,MA,F,Single,US Citizen,Active,Admin Offices,NA,33,White
+Administrative Assistant,MA,F,Married,US Citizen,Voluntarily Terminated,Admin Offices,32406.02,40,Asian
+Area Sales Manager,VA,F,Married,Eligible NonCitizen,Voluntarily Terminated,Sales,NA,26,Black or African American
+Area Sales Manager,VT,F,Single,US Citizen,Active,Sales,55912.5,25,White
+Area Sales Manager,WA,NA,Single,US Citizen,Active,Sales,NA,35,White
+Area Sales Manager,NH,M ,NA,US Citizen,Active,Sales,33773.7,NA,American Indian or Alaska Native
+Area Sales Manager,NY,M ,Single,US Citizen,NA,Sales,58804,31,Two or more races
+Area Sales Manager,OH,NA,Widowed,US Citizen,Terminated for Cause,Sales,28827.21,NA,Black or African American
+Area Sales Manager,ID,M ,Married,US Citizen,Active,Sales,NA,28,White
+Area Sales Manager,TN,M ,Single,US Citizen,Voluntarily Terminated,Sales,31404.1,48,Two or more races
+Area Sales Manager,UT,NA,Separated,US Citizen,Active,Sales,43796,52,Black or African American
+Area Sales Manager,AL,M ,NA,US Citizen,Active,Sales,13645.8,50,NA
+Area Sales Manager,NC,M ,Single,US Citizen,Active,Sales,61795,34,White
+Area Sales Manager,MT,F,Married,US Citizen,Active,Sales,52748.2,24,Black or African American
+Area Sales Manager,AZ,F,NA,US Citizen,Active,Sales,NA,NA,Two or more races
+Area Sales Manager,ME,M ,Single,US Citizen,Active,NA,25521.82,25,Asian
+Area Sales Manager,MA,M ,Married,US Citizen,Active,Sales,35971.73,25,White
+Area Sales Manager,CA,F,Single,US Citizen,Active,Sales,NA,50,White
+Area Sales Manager,CT,M ,Single,US Citizen,Active,Sales,55990.4,34,Black or African American
+Area Sales Manager,IN,F,NA,NA,Active,Sales,96708.02,37,White
+Area Sales Manager,NV,NA,Married,US Citizen,NA,Sales,37221.67,31,White
+Area Sales Manager,CO,M ,Single,US Citizen,Active,Sales,23776.82,53,White
+Area Sales Manager,TX,M ,Single,Eligible NonCitizen,Active,Sales,30817,45,Black or African American
+Area Sales Manager,TX,M ,NA,US Citizen,Future Start,Sales,77246.36,30,Two or more races
+Area Sales Manager,GA,F,Single,US Citizen,Active,Sales,30137.04,33,Two or more races
+Area Sales Manager,FL,F,Single,US Citizen,Active,Sales,53196.72,38,White
+Area Sales Manager,KY,F,Married,US Citizen,Active,Sales,28919,NA,Black or African American
+Area Sales Manager,ND,M ,NA,US Citizen,Active,Sales,60434.67,48,White
+NA,NA,F,Single,US Citizen,Active,Sales,36485.25,49,Black or African American
+BI Developer,MA,F,Married,US Citizen,Active,IT/IS,NA,47,Black or African American
+BI Developer,MA,M ,Single,US Citizen,Active,IT/IS,33231.01,44,White
+BI Developer,NA,NA,Married,US Citizen,Active,NA,27832.19,26,White
+BI Developer,MA,M ,Married,US Citizen,Active,IT/IS,31032,50,Black or African American
+BI Director,MA,M ,Married,US Citizen,NA,IT/IS,4160,23,White
+CIO,MA,F,Single,NA,Active,IT/IS,NA,46,White
+NA,MA,F,Single,US Citizen,Active,IT/IS,90016.01,29,Black or African American
+NA,MA,F,Single,US Citizen,Terminated for Cause,NA,33102.77,NA,White
+Database Administrator,MA,F,Single,US Citizen,Terminated for Cause,IT/IS,NA,46,White
+NA,MA,NA,Married,US Citizen,Terminated for Cause,IT/IS,15537.79,NA,Black or African American
+Database Administrator,MA,F,Single,US Citizen,Active,IT/IS,29188.15,27,White
+NA,MA,F,Married,US Citizen,NA,IT/IS,57777.02,29,Asian
+Data Analyst,TX,M ,Divorced,US Citizen,Active,IT/IS,48017.21,26,Black or African American
+Data Analyst,MA,M ,Married,US Citizen,Voluntarily Terminated,IT/IS,40083.52,27,White
+Data Analyst,MA,F,Married,US Citizen,Active,IT/IS,58672,46,Asian
+NA,NA,F,Married,NA,NA,IT/IS,22721,23,White
+Data Analyst,MA,M ,Married,US Citizen,Active,IT/IS,19161.7,23,White
+Data Analyst ,NA,M ,Divorced,US Citizen,Voluntarily Terminated,IT/IS,42304.75,37,Black or African American
+Data Analyst,MA,M ,Married,US Citizen,Active,IT/IS,418.18,42,NA
+Data Analyst,MA,F,Single,NA,Active,IT/IS,75337.01,41,White
+Director of Operations,MA,F,Single,US Citizen,Active,NA,21422.76,51,Black or African American
+Director of Sales,RI,F,Married,US Citizen,Active,Sales,27595.7,NA,White
+IT Director,MA,M ,Single,US Citizen,Active,IT/IS,36741,50,Black or African American
+IT Manager - DB,MA,M ,Single,US Citizen,Active,NA,44772.47,40,White
+IT Manager - DB,MA,M ,Divorced,US Citizen,Voluntarily Terminated,IT/IS,54810.01,50,Two or more races
+IT Manager - Infra,MA,M ,Married,Eligible NonCitizen,NA,IT/IS,8997.89,25,Hispanic
+NA,MA,M ,Single,US Citizen,Active,IT/IS,2143.58,NA,White
+IT Support,MA,M ,Single,US Citizen,Active,IT/IS,37154.15,37,White
+IT Support,CT,NA,NA,US Citizen,Active,IT/IS,32814.02,NA,White
+IT Support,CT,F,Single,NA,Active,IT/IS,NA,49,Two or more races
+IT Support,MA,F,Married,US Citizen,Active,IT/IS,NA,52,Black or African American
+IT Support,MA,M ,Divorced,US Citizen,Active,IT/IS,39232,33,White
+NA,MA,M ,NA,US Citizen,Active,IT/IS,52221.5,39,White
+NA,MA,F,Married,US Citizen,Active,IT/IS,61834,39,White
+IT Support,MA,F,Separated,US Citizen,Active,IT/IS,42389.4,28,White
+Network Engineer,MA,M ,Single,US Citizen,Active,IT/IS,57636.01,54,White
+Network Engineer,MA,F,Married,US Citizen,Active,IT/IS,32278.4,27,White
+Network Engineer,NA,F,Married,US Citizen,NA,IT/IS,27588.4,30,White
+Network Engineer,MA,M ,Married,US Citizen,Voluntarily Terminated,IT/IS,24158.93,24,White
+NA,MA,M ,Married,Eligible NonCitizen,Active,IT/IS,37828.01,38,NA
+NA,MA,NA,Married,US Citizen,Active,Executive Office,52633.5,42,White
+Production Manager,MA,M ,Divorced,US Citizen,Active,Production       ,96299.04,46,White
+Production Manager,MA,M ,Single,NA,Voluntarily Terminated,Production       ,43967.48,34,Asian
+Production Manager,MA,M ,Single,US Citizen,Active,Production       ,22032,28,White
+Production Manager,NA,F,Single,US Citizen,Active,NA,86859.01,23,White
+Production Manager,MA,M ,Divorced,US Citizen,NA,Production       ,81105.04,NA,White
+Production Manager,MA,M ,Married,NA,Terminated for Cause,Production       ,51977.02,26,White
+NA,MA,M ,Married,US Citizen,Voluntarily Terminated,Production       ,30490,39,Asian
+Production Manager,MA,F,Married,US Citizen,NA,Production       ,28520,35,White
+Production Manager,NA,M ,Single,US Citizen,Active,Production       ,45592.56,40,Hispanic
+Production Manager,MA,F,NA,US Citizen,Voluntarily Terminated,Production       ,37487.05,27,White
+Production Manager,MA,F,Married,US Citizen,NA,Production       ,75525,52,White
+Production Manager,MA,M ,Divorced,US Citizen,Active,Production       ,33889,46,White
+Production Manager,NA,F,Married,US Citizen,Active,Production       ,25515,46,Black or African American
+Production Manager,MA,F,Married,US Citizen,Voluntarily Terminated,Production       ,35867.79,49,Black or African American
+NA,MA,F,Single,US Citizen,Active,Production       ,49500,25,White
+NA,MA,M ,Single,US Citizen,Active,Production       ,61283.01,33,White
+NA,MA,F,Single,US Citizen,Voluntarily Terminated,Production       ,63072.81,35,White
+NA,MA,M ,Married,US Citizen,Active,Production       ,15736.71,26,White
+Production Technician I,MA,M ,NA,NA,Active,Production       ,61771.63,48,NA
+Production Technician I,MA,F,Single,US Citizen,Active,Production       ,21587.54,49,Two or more races
+Production Technician I,MA,F,Married,US Citizen,Active,Production       ,NA,36,White
+Production Technician I,MA,F,NA,US Citizen,Voluntarily Terminated,Production       ,37619,44,White
+NA,MA,M ,Widowed,US Citizen,Voluntarily Terminated,Production       ,5033.44,33,White
+Production Technician I,MA,M ,Married,US Citizen,Voluntarily Terminated,Production       ,65375.51,54,White
+Production Technician I,MA,F,NA,US Citizen,Voluntarily Terminated,Production       ,75,49,White
+Production Technician I,MA,M ,Married,US Citizen,Voluntarily Terminated,Production       ,37915,32,Black or African American
+NA,MA,F,Married,US Citizen,Active,Production       ,703.52,41,White
+Production Technician I,MA,NA,Single,US Citizen,Voluntarily Terminated,Production       ,64964.4,NA,White
+Production Technician I,MA,M ,Married,Eligible NonCitizen,Voluntarily Terminated,Production       ,2977.5,28,White
+Production Technician I,NA,F,Single,US Citizen,Leave of Absence,Production       ,39506.05,49,Two or more races
+Production Technician I,MA,NA,Married,US Citizen,NA,Production       ,51837,51,White
+Production Technician I,MA,M ,Married,US Citizen,Future Start,Production       ,22971.71,37,White
+Production Technician I,MA,F,NA,US Citizen,Active,Production       ,42743,43,Black or African American
+NA,MA,F,Married,US Citizen,Active,Production       ,43435.64,52,White
+Production Technician I,MA,M ,Divorced,US Citizen,Active,Production       ,7673.5,32,American Indian or Alaska Native
+NA,MA,F,NA,NA,NA,Production       ,24752.32,27,White
+Production Technician I,MA,M ,Married,US Citizen,Active,Production       ,36028.03,48,Asian
+Production Technician I,MA,NA,Married,US Citizen,Active,Production       ,43913.01,51,White
+Production Technician I,MA,F,Separated,US Citizen,Active,Production       ,66142.11,27,NA
+Production Technician I,MA,M ,Married,US Citizen,Voluntarily Terminated,Production       ,53314.8,NA,White
+Production Technician I,MA,M ,Widowed,US Citizen,Active,Production       ,NA,50,White
+Production Technician I,MA,F,NA,US Citizen,NA,NA,25866.88,27,White
+Production Technician I,MA,F,Divorced,US Citizen,Active,Production       ,22770.02,25,Black or African American
+Production Technician I,MA,NA,Single,US Citizen,NA,Production       ,68557.05,45,Asian
+Production Technician I,MA,F,Married,US Citizen,Voluntarily Terminated,Production       ,49397.25,NA,Hispanic
+Production Technician I,MA,NA,Married,US Citizen,Voluntarily Terminated,Production       ,1863.9,26,White
+Production Technician I,MA,M ,Single,US Citizen,NA,Production       ,30740,40,White
+Production Technician I,MA,F,Single,US Citizen,Active,Production       ,52011.5,NA,White
+Production Technician I,MA,M ,Single,NA,Active,Production       ,90428.03,31,White
+Production Technician I,MA,M ,Married,NA,Active,Production       ,33179.5,39,White
+NA,MA,F,Single,US Citizen,Active,Production       ,2744.66,51,White
+NA,MA,M ,Married,US Citizen,Active,Production       ,NA,35,White
+Production Technician I,NA,F,Married,US Citizen,Active,Production       ,32609.42,49,White
+Production Technician I,MA,F,NA,NA,Active,Production       ,47548.04,37,White
+Production Technician I,MA,M ,Single,US Citizen,Active,Production       ,1244.59,52,NA
+Production Technician I,MA,F,Separated,US Citizen,Active,Production       ,45727,42,White
+Production Technician I,MA,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,33188.21,39,White
+Production Technician I,NA,F,Single,US Citizen,Active,Production       ,36442.05,35,White
+Production Technician I,NA,F,Widowed,NA,Active,Production       ,30129.01,54,Asian
+Production Technician I,MA,F,Married,US Citizen,Active,Production       ,62216.97,38,White
+Production Technician I,MA,F,Single,Eligible NonCitizen,Active,Production       ,53654.41,44,White
+Production Technician I,MA,F,NA,US Citizen,Active,Production       ,55041.02,26,White
+Production Technician I,MA,F,Married,US Citizen,Active,Production       ,45769.91,27,White
+Production Technician I,MA,F,Single,US Citizen,NA,Production       ,11167.36,27,White
+Production Technician I,MA,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,60695.5,NA,White
+Production Technician I,MA,M ,Married,US Citizen,Active,Production       ,48502,39,Asian
+Production Technician I,MA,F,Married,US Citizen,NA,Production       ,26344.6,NA,White
+Production Technician I,MA,F,Married,US Citizen,Leave of Absence,Production       ,43483,24,Black or African American
+Production Technician I,MA,F,Divorced,US Citizen,Active,Production       ,NA,35,NA
+Production Technician I,MA,NA,Married,US Citizen,Voluntarily Terminated,Production       ,25919.2,44,White
+Production Technician I,MA,M ,Divorced,US Citizen,Voluntarily Terminated,Production       ,34940.27,NA,NA
+Production Technician I,MA,NA,Married,US Citizen,Active,Production       ,42282,49,Black or African American
+Production Technician I,NA,F,Single,Eligible NonCitizen,Active,Production       ,22626.11,NA,Asian
+Production Technician I,MA,F,Single,US Citizen,Voluntarily Terminated,NA,85549.6,41,White
+Production Technician I,MA,M ,Single,US Citizen,Active,Production       ,12853.52,25,Two or more races
+Production Technician I,MA,M ,Single,US Citizen,Active,Production       ,60403.96,32,Black or African American
+Production Technician I,MA,NA,Married,US Citizen,Active,Production       ,33801,24,White
+Production Technician I,MA,M ,Single,US Citizen,Active,Production       ,NA,54,White
+Production Technician I,MA,M ,Married,US Citizen,Active,Production       ,31328.06,35,NA
+Production Technician I,MA,F,Single,US Citizen,Active,Production       ,29760.2,41,Black or African American
+Production Technician I,MA,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,3326.85,48,White
+Production Technician I,MA,F,Separated,US Citizen,Active,NA,24860.02,NA,White
+Production Technician I,MA,M ,Single,US Citizen,Terminated for Cause,Production       ,5620.69,43,White
+Production Technician I,MA,F,Single,US Citizen,Voluntarily Terminated,Production       ,65024.01,36,Black or African American
+Production Technician I,MA,M ,Married,US Citizen,Active,Production       ,53947.38,53,White
+Production Technician I,NA,NA,NA,US Citizen,Active,Production       ,66142,34,White
+Production Technician I,MA,F,Single,US Citizen,Future Start,NA,39997.06,43,Black or African American
+Production Technician I,MA,M ,Married,US Citizen,NA,Production       ,47548.01,NA,Asian
+Production Technician I,MA,F,Married,US Citizen,Terminated for Cause,Production       ,7503.33,33,White
+Production Technician I,NA,M ,NA,US Citizen,NA,Production       ,47390.29,29,White
+Production Technician I,MA,F,Divorced,US Citizen,Active,Production       ,72346.2,26,Asian
+Production Technician I,MA,NA,Single,Non-Citizen,Active,Production       ,3014.01,41,Black or African American
+Production Technician I,MA,M ,NA,US Citizen,Active,Production       ,5325.51,23,White
+Production Technician I,MA,F,Single,US Citizen,NA,Production       ,24725.02,50,White
+Production Technician I,MA,F,Single,US Citizen,Active,Production       ,34124.21,53,White
+Production Technician I,MA,M ,Single,US Citizen,Active,Production       ,NA,46,White
+Production Technician I,MA,M ,Single,US Citizen,Active,Production       ,28937.6,51,Black or African American
+Production Technician I,MA,F,Single,US Citizen,Active,Production       ,56906,25,White
+Production Technician I,MA,M ,Married,US Citizen,Leave of Absence,Production       ,33485.31,NA,White
+Production Technician I,MA,F,Married,US Citizen,Active,Production       ,39356.6,37,White
+Production Technician I,MA,F,NA,NA,Terminated for Cause,Production       ,57663,24,White
+NA,MA,F,NA,US Citizen,Active,Production       ,42743,33,White
+Production Technician I,MA,NA,Divorced,NA,NA,Production       ,41312,26,White
+Production Technician I,MA,F,Single,US Citizen,Voluntarily Terminated,Production       ,12056,41,Two or more races
+Production Technician I,MA,NA,Married,US Citizen,Voluntarily Terminated,Production       ,16856.4,51,Asian
+NA,MA,F,Separated,US Citizen,Leave of Absence,NA,2602.61,39,Black or African American
+Production Technician I,MA,M ,Single,US Citizen,Terminated for Cause,Production       ,27819.13,25,Black or African American
+Production Technician I,MA,F,Married,US Citizen,Voluntarily Terminated,Production       ,41305,50,White
+Production Technician I,MA,M ,Single,US Citizen,Active,NA,11731.95,40,Asian
+Production Technician I,NA,F,Married,US Citizen,Leave of Absence,Production       ,35688.01,30,Asian
+Production Technician I,MA,F,Divorced,US Citizen,Active,Production       ,36917,44,NA
+NA,MA,F,Single,US Citizen,Voluntarily Terminated,Production       ,47860.41,47,Asian
+Production Technician I,MA,F,Married,NA,Active,Production       ,NA,46,Black or African American
+Production Technician I,MA,NA,Single,US Citizen,NA,Production       ,27603,48,NA
+Production Technician I,MA,F,Divorced,Eligible NonCitizen,Voluntarily Terminated,Production       ,NA,41,Asian
+Production Technician I,MA,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,2250,27,White
+Production Technician I,MA,M ,Single,US Citizen,Voluntarily Terminated,Production       ,NA,NA,White
+Production Technician I,MA,F,Divorced,US Citizen,Active,Production       ,36152.57,43,Two or more races
+Production Technician I,MA,M ,Divorced,US Citizen,Voluntarily Terminated,Production       ,10335,30,White
+NA,NA,M ,Single,US Citizen,Active,Production       ,31958,50,White
+Production Technician I,MA,M ,Divorced,US Citizen,Voluntarily Terminated,Production       ,39045,NA,White
+NA,MA,F,Single,US Citizen,Active,Production       ,8676.5,39,White
+Production Technician I,MA,F,Single,US Citizen,NA,Production       ,36105.09,27,White
+Production Technician I,MA,M ,Single,US Citizen,Terminated for Cause,Production       ,52011.5,26,White
+Production Technician I,MA,F,Married,US Citizen,Active,Production       ,19847.4,44,NA
+Production Technician I,MA,F,Married,US Citizen,NA,Production       ,NA,41,White
+NA,MA,M ,Married,US Citizen,Voluntarily Terminated,Production       ,21110.6,53,NA
+Production Technician I,MA,M ,Single,US Citizen,Active,Production       ,60951.42,54,White
+Production Technician I,MA,NA,Married,US Citizen,Voluntarily Terminated,Production       ,35448.62,49,White
+Production Technician I,NA,F,Single,US Citizen,Active,Production       ,17315.7,NA,White
+Production Technician I,MA,M ,Single,NA,Active,Production       ,50630.52,24,NA
+Production Technician I,MA,M ,Divorced,US Citizen,Voluntarily Terminated,Production       ,NA,33,White
+Production Technician I,MA,M ,Single,US Citizen,Voluntarily Terminated,Production       ,47199.63,44,White
+Production Technician I,MA,NA,Married,US Citizen,Active,Production       ,NA,35,White
+Production Technician I,MA,F,Single,US Citizen,Future Start,Production       ,22094.51,37,White
+Production Technician I,MA,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,NA,34,White
+Production Technician I,MA,M ,Single,US Citizen,Leave of Absence,Production       ,52846.35,44,NA
+Production Technician I,MA,M ,Single,US Citizen,Active,Production       ,39835.4,43,White
+Production Technician I,NA,M ,Married,US Citizen,Voluntarily Terminated,Production       ,NA,44,White
+Production Technician I,MA,F,Married,US Citizen,Voluntarily Terminated,Production       ,20450,33,NA
+Production Technician I,MA,M ,Married,US Citizen,Voluntarily Terminated,Production       ,827.04,29,Black or African American
+Production Technician I,MA,F,Single,US Citizen,Voluntarily Terminated,Production       ,41700.01,50,White
+NA,MA,F,Married,US Citizen,Voluntarily Terminated,Production       ,108304,27,White
+Production Technician I,MA,F,NA,US Citizen,Voluntarily Terminated,Production       ,26994.14,39,Two or more races
+Production Technician I,MA,NA,Single,US Citizen,NA,Production       ,28919,NA,Black or African American
+Production Technician I,MA,NA,Single,US Citizen,Voluntarily Terminated,Production       ,42620.02,42,Black or African American
+Production Technician I,MA,F,Married,US Citizen,Active,Production       ,46067.86,31,Asian
+NA,MA,F,Single,US Citizen,Leave of Absence,Production       ,38976.21,36,Asian
+Production Technician I,MA,F,Married,Non-Citizen,Voluntarily Terminated,Production       ,NA,NA,Two or more races
+NA,NA,M ,Single,US Citizen,Voluntarily Terminated,Production       ,35950.04,34,White
+Production Technician II,MA,F,Single,US Citizen,Active,Production       ,2041.2,28,Black or African American
+Production Technician II,MA,M ,Single,US Citizen,Voluntarily Terminated,Production       ,54810.02,NA,White
+Production Technician II,MA,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,66462.04,41,White
+Production Technician II,MA,F,NA,US Citizen,Voluntarily Terminated,Production       ,NA,41,Two or more races
+Production Technician II,MA,F,Married,US Citizen,Voluntarily Terminated,NA,34169.22,48,Asian
+Production Technician II,NA,F,Single,US Citizen,Voluntarily Terminated,Production       ,11715,38,White
+Production Technician II,MA,F,Married,US Citizen,NA,Production       ,1733.6,34,White
+Production Technician II,NA,NA,Married,US Citizen,Voluntarily Terminated,Production       ,NA,34,Black or African American
+Production Technician II,NA,F,Single,US Citizen,NA,Production       ,28189.59,42,NA
+Production Technician II,MA,M ,Single,US Citizen,Voluntarily Terminated,Production       ,52764.44,54,NA
+Production Technician II,MA,F,Married,Eligible NonCitizen,Active,Production       ,40483,28,Asian
+NA,MA,M ,Single,US Citizen,Voluntarily Terminated,Production       ,38956.1,53,White
+Production Technician II,MA,M ,NA,US Citizen,Voluntarily Terminated,Production       ,NA,45,White
+Production Technician II,MA,NA,Married,US Citizen,Leave of Absence,Production       ,26970.86,48,White
+NA,MA,NA,Divorced,US Citizen,Voluntarily Terminated,Production       ,10936.66,26,Asian
+Production Technician II,MA,M ,Married,US Citizen,Active,NA,31173.4,28,White
+Production Technician II,NA,F,Divorced,Eligible NonCitizen,Voluntarily Terminated,Production       ,24702.3,33,White
+Production Technician II,MA,F,Single,US Citizen,Active,Production       ,48678,NA,White
+Production Technician II,MA,F,Single,US Citizen,NA,Production       ,56167.08,52,White
+Production Technician II,MA,F,Married,US Citizen,NA,Production       ,54273,46,Black or African American
+Production Technician II,NA,F,Single,US Citizen,Future Start,Production       ,34100.44,45,White
+Production Technician II,MA,F,Single,US Citizen,Active,Production       ,45792.03,37,Black or African American
+Production Technician II,MA,F,Single,US Citizen,Active,NA,31190,49,NA
+Production Technician II,NA,M ,Single,US Citizen,Active,Production       ,22756.4,33,White
+NA,MA,F,Married,US Citizen,Voluntarily Terminated,Production       ,7973.63,54,NA
+NA,MA,F,Married,US Citizen,NA,Production       ,32624.1,47,White
+Production Technician II,MA,F,Separated,US Citizen,NA,Production       ,38047,41,Black or African American
+Production Technician II,MA,M ,Single,US Citizen,Active,Production       ,65024,40,White
+Production Technician II,MA,F,Single,US Citizen,Voluntarily Terminated,Production       ,47010.03,39,White
+Production Technician II,MA,M ,Married,NA,Leave of Absence,NA,51727.02,41,White
+Production Technician II,MA,M ,NA,US Citizen,Leave of Absence,Production       ,4454,43,Hispanic
+NA,NA,M ,Married,US Citizen,Active,Production       ,6738.18,NA,White
+Production Technician II,MA,M ,Married,NA,Active,Production       ,56906.01,49,White
+Production Technician II,MA,F,Married,US Citizen,Voluntarily Terminated,Production       ,50531.61,40,White
+Production Technician II,MA,F,Divorced,US Citizen,Active,Production       ,1204.13,50,American Indian or Alaska Native
+Production Technician II,MA,F,Single,US Citizen,Active,Production       ,13428.6,41,NA
+Production Technician II,MA,F,Married,US Citizen,Voluntarily Terminated,Production       ,31121.05,NA,White
+Production Technician II,MA,M ,Single,US Citizen,Active,Production       ,10292,53,Black or African American
+Production Technician II,MA,F,Married,US Citizen,Voluntarily Terminated,Production       ,54514.81,NA,White
+Production Technician II,MA,M ,Single,Eligible NonCitizen,Active,Production       ,56434.01,26,Two or more races
+Production Technician II,MA,NA,Separated,US Citizen,Leave of Absence,Production       ,14497,29,American Indian or Alaska Native
+Production Technician II,MA,M ,Married,NA,Voluntarily Terminated,Production       ,NA,35,White
+Production Technician II,MA,F,Single,US Citizen,Active,Production       ,50138.83,25,Black or African American
+Production Technician II,MA,M ,Married,US Citizen,Voluntarily Terminated,NA,19191.29,38,White
+Production Technician II,MA,M ,Single,US Citizen,Active,Production       ,62645.47,53,White
+Production Technician II,NA,F,Single,US Citizen,Active,Production       ,65024,31,White
+Production Technician II,MA,NA,Separated,NA,Active,Production       ,23456.67,30,White
+Production Technician II,NA,F,Married,Non-Citizen,Voluntarily Terminated,Production       ,32367.89,42,White
+Production Technician II,MA,F,Widowed,NA,Voluntarily Terminated,Production       ,31289,35,White
+Production Technician II,NA,M ,Separated,US Citizen,Active,Production       ,59495,39,Black or African American
+Production Technician II,MA,F,Single,US Citizen,Voluntarily Terminated,Production       ,6219.9,39,NA
+Production Technician II,MA,M ,Single,NA,Active,Production       ,48489.13,39,White
+Production Technician II,MA,F,Single,US Citizen,Active,Production       ,31240,23,Black or African American
+Production Technician II,NA,F,Separated,US Citizen,Future Start,Production       ,26418,54,White
+NA,MA,F,Married,US Citizen,NA,Production       ,9881,30,White
+Production Technician II,MA,NA,Married,US Citizen,Voluntarily Terminated,Production       ,21211.09,41,Asian
+Production Technician II,MA,M ,Widowed,US Citizen,Voluntarily Terminated,Production       ,7861.65,53,White
+Sales Manager,NA,F,Single,US Citizen,Active,Sales,NA,28,White
+Sales Manager,PA,F,Single,US Citizen,Voluntarily Terminated,Sales,36917.02,25,NA
+Sales Manager,MA,M ,Divorced,US Citizen,Active,Sales,39331,49,Black or African American
+Senior BI Developer,MA,NA,Single,US Citizen,Active,IT/IS,61771.63,27,Asian
+Senior BI Developer,NA,M ,Single,NA,Active,IT/IS,86859,35,Asian
+Senior BI Developer,MA,M ,Single,US Citizen,Active,IT/IS,65250.4,37,Asian
+Shared Services Manager,MA,M ,Married,US Citizen,Active,Admin Offices,33465.2,36,White
+Shared Services Manager,MA,M ,Married,Eligible NonCitizen,Voluntarily Terminated,Admin Offices,57060.75,51,Black or African American
+Software Engineer,MA,F,Single,US Citizen,Active,Software Engineering,70429.85,53,White
+Software Engineer,MA,F,Single,US Citizen,Active,Software Engineering,65673.73,45,White
+Software Engineer,MA,F,Single,US Citizen,Active,Software Engineering,44492.3,38,Black or African American
+Software Engineer,MA,F,Married,US Citizen,Terminated for Cause,Software Engineering,73450,NA,Black or African American
+Software Engineer,MA,F,Single,US Citizen,Active,Software Engineering,31457.2,NA,Asian
+NA,MA,NA,Single,US Citizen,Voluntarily Terminated,Software Engineering,33765,44,Asian
+Software Engineer,MA,F,Married,US Citizen,Active,Software Engineering,27588.4,51,White
+Software Engineer,MA,M ,Single,US Citizen,Active,Software Engineering,344.5,44,White
+Software Engineer,MA,NA,Single,NA,Voluntarily Terminated,Software Engineering,11829.8,33,Black or African American
+NA,MA,M ,Single,US Citizen,Active,Software Engineering,40208,25,NA
+Sr. Accountant,MA,F,Married,US Citizen,Active,Admin Offices,28461.55,44,White
+Sr. Accountant,NA,F,Married,US Citizen,Active,Admin Offices,26237.96,32,Asian
+NA,MA,M ,Married,US Citizen,Voluntarily Terminated,NA,32700.05,32,White
+Sr. DBA,MA,F,NA,US Citizen,Future Start,IT/IS,31209.9,54,Black or African American
+NA,CT,M ,Single,US Citizen,Terminated for Cause,IT/IS,5802,52,Black or African American
+Principal Data Architect,MA,F,Single,NA,Voluntarily Terminated,IT/IS,24828.7,NA,White
+Sr. Network Engineer,CT,F,Married,US Citizen,Leave of Absence,IT/IS,NA,38,White
+Sr. Network Engineer,MA,M ,Married,US Citizen,Leave of Absence,IT/IS,27603,34,White
+NA,MA,M ,Married,US Citizen,Future Start,IT/IS,27587.46,24,Asian
+Sr. Network Engineer,CT,M ,NA,US Citizen,Active,IT/IS,12126.53,31,White
+Sr. Network Engineer,MA,F,Widowed,US Citizen,Active,IT/IS,37257,46,Asian
