@@ -1,0 +1,27 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jun  3 09:59:48 2023
+
+@author: Lenovo
+"""
+
+import pandas as pd
+import matplotlib.pyplot as plt
+data=pd.read_csv("Final_attendance.csv")
+df2 = data.drop('year',axis=1)
+df2 = df2.drop('month',axis=1)
+df2 = df2.drop('weekday',axis=1)
+df2 = df2.drop('datum',axis=1)
+df2.columns
+df2['Total_attendance']=df2.iloc[:,1:].sum(axis=1)
+df2
+df3=df2.to_csv('final_attenadance_ds.csv')
+df3
+##########################################
+plt.bar(df3['Name'], df3['Total_attendance'])
+plt.xlabel('Student')
+plt.ylabel('Total Hours Attended')
+plt.title('Attendance by Student')
+
+plt.xticks(rotation=90)
+plt.show()

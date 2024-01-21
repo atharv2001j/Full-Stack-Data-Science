@@ -1,0 +1,13 @@
+,courses,Fee,Duration,Discount
+r1,spark,20000.0,30days,
+r2,pyspark,25000.0,40days,
+r3,Python,22000.0,35days,
+r4,pandas,30000.0,50days,
+r1,spark,,,2000.0
+r6,Java,,,2300.0
+r3,Python,,,1200.0
+r5,Go,,,2000.0
+0,C,,,2000.0
+1,Java,,,2300.0
+2,Python,,,100.0
+3,C++,,,20000.0
