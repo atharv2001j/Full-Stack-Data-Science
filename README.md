@@ -42,3 +42,15 @@ Learn how to optimize machine learning models for better performance and efficie
 
 ### 13_Web_Scraping
 Explore web scraping techniques to collect data from websites. This folder provides hands-on exercises and examples using libraries like BeautifulSoup and Scrapy, guiding you through the process of extracting valuable information from the web.
+
+### 14_Naive_Bayes
+Delve into the world of Naive Bayes classification, a probabilistic algorithm based on Bayes' theorem. This folder covers the theory behind Naive Bayes, its applications in text classification, spam filtering, and more. Practical examples and hands-on exercises using Python will enhance your understanding of this simple yet powerful classification algorithm.
+
+### 15_KNN
+Discover the K-Nearest Neighbors (KNN) algorithm, a versatile and intuitive method for classification and regression tasks. This folder provides insights into how KNN works, its applications in pattern recognition, and practical examples using Python. Hands-on exercises will deepen your understanding of this neighborhood-based algorithm.
+
+### 16_Decision_tree
+Dive into Decision Trees, a popular machine learning algorithm known for its interpretability and versatility. This folder covers the principles behind decision tree construction, tree pruning, and visualization. Practical examples and coding exercises in Python will guide you through building and interpreting decision trees for various applications.
+
+### 17_Random_Forest
+Explore Random Forest, an ensemble learning technique that leverages the power of multiple decision trees for improved performance and robustness. This folder covers the theory behind Random Forest, its advantages, and practical examples using Python. Hands-on exercises will strengthen your skills in implementing and tuning Random Forest models.
