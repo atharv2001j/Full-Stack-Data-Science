@@ -1,0 +1,197 @@
+Position of the employee,no of Years of Experience of employee, monthly income of employee
+Business Analyst,1.1,39343
+Junior Consultant,1.3,46205
+Senior Consultant,1.5,37731
+Manager,2,43525
+Country Manager,2.2,39891
+Region Manager,2.9,56642
+Partner,3,60150
+Senior Partner,3.2,54445
+C-level,3.2,64445
+CEO,3.7,57189
+Junior Consultant,3.9,63218
+Senior Consultant,4,55794
+Manager,4,56957
+Region Manager,4.1,57081
+Business Analyst,4.5,61111
+Junior Consultant,4.9,67938
+Senior Consultant,5.1,66029
+Manager,5.3,83088
+Country Manager,5.9,81363
+Region Manager,6,93940
+Partner,6.8,91738
+Senior Partner,7.1,98273
+C-level,7.9,101302
+CEO,8.2,113812
+Country Manager,8.7,109431
+Region Manager,9,105582
+Partner,9.5,116969
+Business Analyst,9.6,112635
+Junior Consultant,10.3,122391
+Senior Consultant,10.5,121872
+Manager,1.1,39343
+Country Manager,1.3,46205
+Region Manager,1.5,37731
+Partner,2,43525
+Senior Partner,2.2,39891
+C-level,2.9,56642
+CEO,3,60150
+Manager,3.2,54445
+Country Manager,3.2,64445
+Region Manager,3.7,57189
+Partner,3.9,63218
+Senior Partner,4,55794
+Business Analyst,4,56957
+Junior Consultant,4.1,57081
+Senior Consultant,4.5,61111
+Manager,4.9,67938
+Country Manager,5.1,66029
+Region Manager,5.3,83088
+Partner,5.9,81363
+Senior Partner,6,93940
+C-level,6.8,91738
+CEO,7.1,98273
+Partner,7.9,101302
+Senior Partner,8.2,113812
+C-level,8.7,109431
+CEO,9,105582
+Junior Consultant,9.5,116969
+Senior Consultant,9.6,112635
+Manager,10.3,122391
+Country Manager,10.5,121872
+Region Manager,1.1,39343
+Partner,1.3,46205
+Senior Partner,1.5,37731
+C-level,2,43525
+CEO,2.2,39891
+Partner,2.9,56642
+Senior Partner,3,60150
+C-level,3.2,54445
+CEO,3.2,64445
+Country Manager,3.7,57189
+Business Analyst,3.9,63218
+Junior Consultant,4,55794
+Senior Consultant,4,56957
+Manager,4.1,57081
+Country Manager,4.5,61111
+Region Manager,4.9,67938
+Partner,5.1,66029
+Senior Partner,5.3,83088
+C-level,5.9,81363
+CEO,6,93940
+Region Manager,6.8,91738
+Partner,7.1,98273
+Senior Partner,7.9,101302
+C-level,8.2,113812
+CEO,8.7,109431
+Junior Consultant,9,105582
+Senior Consultant,9.5,116969
+Manager,9.6,112635
+Country Manager,10.3,122391
+Region Manager,10.5,121872
+Partner,1.1,39343
+Senior Partner,1.3,46205
+C-level,1.5,37731
+CEO,2,43525
+CEO,2.2,39891
+CEO,2.9,56642
+CEO,3,60150
+Business Analyst,3.2,54445
+Junior Consultant,3.2,64445
+Senior Consultant,3.7,57189
+Manager,3.9,63218
+Country Manager,4,55794
+Region Manager,4,56957
+Partner,4.1,57081
+Senior Partner,4.5,61111
+C-level,4.9,67938
+CEO,5.1,66029
+Business Analyst,5.3,83088
+Partner,5.9,81363
+Partner,6,93940
+Business Analyst,6.8,91738
+Junior Consultant,7.1,98273
+Senior Consultant,7.9,101302
+Manager,8.2,113812
+Country Manager,8.7,109431
+Region Manager,9,105582
+Partner,9.5,116969
+Senior Partner,9.6,112635
+C-level,10.3,122391
+CEO,10.5,121872
+Partner,1.1,39343
+Senior Partner,1.3,46205
+C-level,1.5,37731
+CEO,2,43525
+Junior Consultant,2.2,39891
+Senior Consultant,2.9,56642
+Manager,3,60150
+Country Manager,3.2,54445
+Region Manager,3.2,64445
+Partner,3.7,57189
+Senior Partner,3.9,63218
+C-level,4,55794
+CEO,4,56957
+Partner,4.1,57081
+Senior Partner,4.5,61111
+C-level,4.9,67938
+CEO,5.1,66029
+Junior Consultant,5.3,83088
+Senior Consultant,5.9,81363
+Manager,6,93940
+Country Manager,6.8,91738
+Region Manager,7.1,98273
+Partner,7.9,101302
+Senior Partner,8.2,113812
+C-level,8.7,109431
+CEO,9,105582
+Region Manager,9.5,116969
+Partner,9.6,112635
+Senior Partner,10.3,122391
+C-level,10.5,121872
+Junior Consultant,1.1,39343
+Senior Consultant,1.3,46205
+Manager,1.5,37731
+Country Manager,2,43525
+Region Manager,2.2,39891
+Partner,2.9,56642
+Senior Partner,3,60150
+C-level,3.2,54445
+CEO,3.2,64445
+Region Manager,3.7,57189
+Partner,3.9,63218
+Senior Partner,4,55794
+C-level,4,56957
+Junior Consultant,4.1,57081
+Senior Consultant,4.5,61111
+Manager,4.9,67938
+Country Manager,5.1,66029
+Region Manager,5.3,83088
+Partner,5.9,81363
+Senior Partner,6,93940
+C-level,6.8,91738
+CEO,7.1,98273
+Region Manager,7.9,101302
+Partner,8.2,113812
+Senior Partner,8.7,109431
+C-level,9,105582
+Senior Consultant,9.5,116969
+Manager,9.6,112635
+Country Manager,10.3,122391
+Region Manager,10.5,121872
+Partner,1,39343
+Senior Partner,1.1,46205
+C-level,1.3,37731
+CEO,1.5,43525
+Region Manager,2,39891
+Partner,2.2,56642
+Senior Partner,2.9,60150
+C-level,3,54445
+Senior Consultant,3.2,64445
+Manager,3.2,57189
+Country Manager,3.7,63218
+Region Manager,3.9,55794
+Partner,4,56957
+Senior Partner,4,57081
+C-level,4.1,61111
+CEO,4.5,67938
