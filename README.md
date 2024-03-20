@@ -54,3 +54,31 @@ Dive into Decision Trees, a popular machine learning algorithm known for its int
 
 ### 17_Random_Forest
 Explore Random Forest, an ensemble learning technique that leverages the power of multiple decision trees for improved performance and robustness. This folder covers the theory behind Random Forest, its advantages, and practical examples using Python. Hands-on exercises will strengthen your skills in implementing and tuning Random Forest models.
+
+### 18_Ensemble_Learning
+Explore Ensemble Learning techniques, which combine multiple machine learning models to improve predictive performance and reduce overfitting. This folder covers ensemble methods such as Bagging, Boosting (AdaBoost, Gradient Boosting), and Stacking. Practical examples, comparisons between different ensemble methods, and best practices for ensemble model selection and evaluation are included.
+
+### 19_Linear_Regression
+Delve into Linear Regression, a fundamental statistical technique for modeling the relationship between dependent and independent variables. This folder covers simple linear regression, multiple linear regression, assumptions of linear regression, model interpretation, and diagnostic tools. Practical examples and exercises using Python libraries like statsmodels and scikit-learn are provided.
+
+### 20_Logistic_Regression
+Discover Logistic Regression, a binary classification algorithm widely used in data science and machine learning. This folder covers the theory behind logistic regression, model training and evaluation, interpretation of coefficients, handling multicollinearity, and practical examples for binary classification tasks. Implementation using Python's scikit-learn and statsmodels is demonstrated.
+
+### 21_SVM
+Explore Support Vector Machines (SVM), a powerful supervised learning algorithm for classification and regression tasks. This folder covers the mathematical concepts behind SVM, kernel functions, hyperparameter tuning, handling non-linear data, and practical examples using Python's scikit-learn library. Both linear and non-linear SVM implementations are discussed.
+
+### 22_Time_Series
+Dive into Time Series Analysis, which focuses on analyzing and forecasting sequential data points over time. This folder covers time series components, data visualization, trend and seasonality analysis, stationarity, ARIMA models, Exponential Smoothing, and forecasting techniques. Practical examples and case studies using Python's pandas, statsmodels, and other libraries are provided.
+
+### 23_Co-relation
+Understand Correlation Analysis, a statistical technique for measuring the strength and direction of relationships between variables. This folder covers Pearson correlation, Spearman correlation, correlation matrices, significance testing, visualizations, and interpreting correlation results. Real-world examples and applications in data science contexts are included.
+
+### 24_Multilinear_Regression
+Explore Multilinear Regression, an extension of linear regression to multiple independent variables. This folder covers the assumptions of multilinear regression, model building strategies, multicollinearity detection and remediation, model evaluation metrics, and practical examples using Python's statsmodels and scikit-learn libraries.
+
+### 25_Lasso_Regression
+Delve into Lasso Regression, a regularization technique used to prevent overfitting and select important features in machine learning models. This folder covers the concept of L1 regularization, tuning the regularization parameter (alpha), handling multicollinearity, advantages of Lasso regression, and implementation in Python using libraries like scikit-learn.
+
+Additionally, i add  "Data Science Interview," which could include resources, tips, and practice questions related to data science job interviews, technical assessments, and coding challenges commonly encountered in the industry. This section could cover topics such as data manipulation, feature engineering, model evaluation, algorithm selection, and communication skills for presenting technical concepts during interviews.
+
+
